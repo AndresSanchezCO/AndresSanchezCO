@@ -1,11 +1,17 @@
 <h1 align="center">Hi 👋, I'm Andres Sanchez</h1>
 <h3 align="center">A passionate Data Scientist from Colombia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=andressanchezco&label=Profile%20views&color=0e75b6&style=flat" alt="andressanchezco" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=andressanchezco" alt="andressanchezco" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/1andressanchez_" target="blank"><img src="https://img.shields.io/twitter/follow/1andressanchez_?logo=twitter&style=for-the-badge" alt="1andressanchez_" /></a> </p>
+
+- 🔭 I’m currently working on **Freelance Projects**
+
+- 🌱 I’m currently learning **Machine Learning**
+
+- 📫 How to reach me **g.sanchez@utp.edu.co**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1DIqGXpaWDoXqUkDm3pfr8Ld78bReSwJX/view?usp=sharing](https://drive.google.com/file/d/1DIqGXpaWDoXqUkDm3pfr8Ld78bReSwJX/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
